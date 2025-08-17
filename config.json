@@ -1,0 +1,6 @@
+{
+  "token": "你的BotToken",
+  "clientId": "你的ClientID",
+  "guildId": "你的GuildID",
+  "channelId": "要顯示評價的文字頻道ID"
+}
